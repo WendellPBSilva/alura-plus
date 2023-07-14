@@ -1,3 +1,3 @@
-#Alura Plus
+# Alura Plus
 
-##Project developed as a part of course
+## Project developed as a part of course
